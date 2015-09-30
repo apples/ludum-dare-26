@@ -1,0 +1,7 @@
+left=A
+right=D
+up=W
+down=S
+jump='
+melee=;
+shoot=l
